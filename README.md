@@ -8,9 +8,8 @@ The objective is to simulate a real-world online bookstore by creating a relatio
 
 Through this project, I practiced writing SQL queries to analyze customer behavior, sales performance, inventory, and revenue.
 
----
 
-** Objectives**
+**** Objectives****
 
 - Design a relational database
 - Create tables with Primary and Foreign Keys
